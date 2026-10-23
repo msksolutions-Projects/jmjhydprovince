@@ -6,7 +6,7 @@ const BASE_URL = API_BASE_URL;
 
 export const adminApi = axios.create({
   baseURL: BASE_URL,
-  timeout: 15000,
+  timeout: 60000, // allows for a sleeping free-tier server waking up and 15 MB uploads
 });
 
 // Attach the saved token to every request

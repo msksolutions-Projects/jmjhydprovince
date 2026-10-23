@@ -60,7 +60,7 @@
   .a-side { position: sticky; top: 0; height: 100vh; width: auto; transform: none; visibility: visible; box-shadow: none; }
 }
 .a-side__brand { display: flex; align-items: center; gap: 12px; padding: 22px 20px 18px; }
-.a-side__logo { width: 40px; height: 40px; border-radius: 10px; background: #fff; padding: 3px; object-fit: contain; }
+.a-side__logo { width: 42px; height: 42px; object-fit: contain; flex-shrink: 0; }
 .a-side__brand strong { display: block; color: #fff; font-size: 0.98rem; line-height: 1.2; }
 .a-side__brand span { font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--a-gold); font-weight: 700; }
 .a-side__label { padding: 18px 22px 8px; font-size: 0.68rem; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(255, 255, 255, 0.42); font-weight: 700; }
@@ -343,7 +343,7 @@ a.a-stat:hover { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(15, 3
 .a-auth__art h2 { color: #fff; font-size: 2.2rem; font-family: "Playfair Display Variable", Georgia, serif; font-weight: 600; max-width: 460px; line-height: 1.2; }
 .a-auth__art p { color: rgba(255, 255, 255, 0.82); max-width: 440px; margin-top: 12px; }
 .a-auth__brand { display: flex; align-items: center; gap: 12px; }
-.a-auth__brand img { width: 46px; height: 46px; border-radius: 12px; background: #fff; padding: 3px; }
+.a-auth__brand img { width: 52px; height: 52px; object-fit: contain; }
 .a-auth__brand strong { display: block; color: #fff; }
 .a-auth__brand span { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: #e6cf94; font-weight: 700; }
 .a-auth__features { display: grid; gap: 12px; }

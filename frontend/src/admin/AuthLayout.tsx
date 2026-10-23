@@ -9,7 +9,7 @@ export function AuthLayout({ children }: { children: ReactNode }) {
     <div className="a-auth">
       <aside className="a-auth__art" style={{ ["--a-art" as string]: `url(${ART})` }} aria-hidden="true">
         <div className="a-auth__brand">
-          <img src="/brand/jmj-logo-128.png" alt="" width={46} height={46} />
+          <img src="/brand/jmj-logo-128.webp" srcSet="/brand/jmj-logo-128.webp 1x, /brand/jmj-logo-256.webp 2x" alt="" width={46} height={46} />
           <div>
             <strong>Congregation of Jesus Mary Joseph</strong>
             <span>Hyderabad Province</span>
@@ -28,7 +28,7 @@ export function AuthLayout({ children }: { children: ReactNode }) {
       <div className="a-auth__panel">
         <div className="a-auth__card">
           <div className="a-auth__brand">
-            <img src="/brand/jmj-logo-128.png" alt="" width={46} height={46} />
+            <img src="/brand/jmj-logo-128.webp" srcSet="/brand/jmj-logo-128.webp 1x, /brand/jmj-logo-256.webp 2x" alt="" width={46} height={46} />
             <div>
               <strong>JMJ Admin</strong>
               <span>Hyderabad Province</span>

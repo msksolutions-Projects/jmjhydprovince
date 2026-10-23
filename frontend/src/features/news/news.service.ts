@@ -18,7 +18,7 @@ export interface PublicNews {
 export async function apiGet<T>(path: string, params: Record<string, string | number>, signal?: AbortSignal): Promise<T> {
   const url = new URL(`${BASE_URL}${path}`, window.location.origin);
   Object.entries(params).forEach(([key, value]) => url.searchParams.set(key, String(value)));
-  const timeout = AbortSignal.timeout ? AbortSignal.timeout(10000) : undefined;
+  const timeout = AbortSignal.timeout ? AbortSignal.timeout(45000) : undefined;
   const combined = signal && timeout && "any" in AbortSignal ? AbortSignal.any([signal, timeout]) : (signal ?? timeout);
   const response = await fetch(url, { signal: combined, headers: { Accept: "application/json" } });
   if (!response.ok) throw new Error(`Request failed (${response.status})`);

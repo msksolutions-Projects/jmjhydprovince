@@ -1,2 +1,51 @@
-node_modules
-dist
+# ---------- Dependencies ----------
+node_modules/
+.pnpm-store/
+
+# ---------- Secrets (never commit) ----------
+# Real settings live in Vercel / Render dashboards. The *.example files stay.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ---------- Build output ----------
+dist/
+build/
+*.tsbuildinfo
+.vite/
+.vercel/
+
+# ---------- User uploads and database backups ----------
+# Created at runtime (photos, PDFs, attachments). Back them up separately.
+backend/uploads/
+backend/backups/
+uploads/
+backups/
+
+# ---------- Tests ----------
+coverage/
+playwright-report/
+test-results/
+
+# ---------- Logs ----------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- Editors and OS ----------
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Archives ----------
+*.zip

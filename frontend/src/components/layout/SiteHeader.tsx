@@ -249,7 +249,7 @@ function MobileDrawer({
         ref={drawerRef}
       >
         <div className="drawer__head">
-          <img src="/brand/jmj-logo-128.png" alt="" width={38} height={42} />
+          <img src="/brand/jmj-logo-128.webp" srcSet="/brand/jmj-logo-128.webp 1x, /brand/jmj-logo-256.webp 2x" alt="" width={40} height={40} />
           <div className="drawer__title">JMJ Hyderabad Province</div>
           <button ref={closeRef} type="button" className="icon-btn" onClick={onClose} aria-label="Close navigation menu">
             <Icon name="close" />
@@ -312,7 +312,7 @@ export function SiteHeader() {
       <header className="brandbar">
         <div className="container">
           <Link to="/" className="brand" aria-label={`${site.name} — home`}>
-            <img src="/brand/jmj-logo-128.png" alt="" width={62} height={70} />
+            <img src="/brand/jmj-logo-128.webp" srcSet="/brand/jmj-logo-128.webp 1x, /brand/jmj-logo-256.webp 2x" alt="" width={64} height={64} />
             <span className="brand__text">
               <span className="brand__title">
                 <span className="long">Congregation of Jesus Mary Joseph </span>

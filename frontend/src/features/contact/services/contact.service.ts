@@ -29,7 +29,7 @@ export interface ContactResponse {
 const USE_MOCK = import.meta.env.MODE === "test" && import.meta.env.VITE_USE_MOCK_API === "true";
 const BASE_URL = API_BASE_URL;
 
-const client = axios.create({ baseURL: BASE_URL, timeout: 15_000 });
+const client = axios.create({ baseURL: BASE_URL, timeout: 60_000 }); // a free-tier API can take ~50 s to wake up
 
 client.interceptors.response.use(
   (response) => response,

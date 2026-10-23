@@ -26,7 +26,7 @@ export function SiteFooter() {
       <div className="container footer__main">
         <div>
           <div className="footer__brand">
-            <img src="/brand/jmj-logo-128.png" alt="" width={56} height={62} loading="lazy" />
+            <img src="/brand/jmj-logo-128.webp" srcSet="/brand/jmj-logo-128.webp 1x, /brand/jmj-logo-256.webp 2x" alt="" width={64} height={64} loading="lazy" />
             <div>
               <strong>Congregation of Jesus Mary Joseph</strong>
               <span>Hyderabad Province</span>

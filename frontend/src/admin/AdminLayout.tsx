@@ -96,7 +96,7 @@ function Shell() {
       {sideOpen && <div className="a-backdrop" onClick={() => setSideOpen(false)} aria-hidden="true" />}
       <aside className={`a-side${sideOpen ? " is-open" : ""}`} aria-label="Admin navigation">
         <div className="a-side__brand">
-          <img className="a-side__logo" src="/brand/jmj-logo-128.png" alt="" width={40} height={40} />
+          <img className="a-side__logo" src="/brand/jmj-logo-128.webp" srcSet="/brand/jmj-logo-128.webp 1x, /brand/jmj-logo-256.webp 2x" alt="" width={40} height={40} />
           <div>
             <strong>JMJ Admin</strong>
             <span>Hyderabad Province</span>
