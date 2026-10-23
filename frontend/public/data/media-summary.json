@@ -1,0 +1,25 @@
+{
+  "source": "12 client-approved, publicly shared Google Drive folders",
+  "importedPhotographs": 484,
+  "uniquePhotographs": 484,
+  "filters": 12,
+  "nestedAspirancyFolders": 2,
+  "videosNotIncludedInPhotoGallery": 3,
+  "imageFormat": "webp",
+  "imageVariantsPerPhotograph": 2,
+  "originalPhotoBytes": 1537125362,
+  "categories": {
+    "postulency": 2,
+    "novices": 3,
+    "aspirancy": 12,
+    "pcci-meet": 47,
+    "pentionaries": 20,
+    "pp-2024": 53,
+    "pp-2025": 79,
+    "pp-2026": 76,
+    "lay-collaboration": 44,
+    "thanksgiving-pc": 74,
+    "youth-fest-2025": 11,
+    "assessment-teams": 63
+  }
+}

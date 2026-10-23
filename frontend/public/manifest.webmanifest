@@ -1,0 +1,22 @@
+{
+  "name": "JMJ Hyderabad Province",
+  "short_name": "JMJ Hyderabad",
+  "description": "Congregation of Jesus Mary Joseph, Hyderabad Province",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F9FC",
+  "theme_color": "#103F72",
+  "icons": [
+    {
+      "src": "/brand/jmj-logo-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand/jmj-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

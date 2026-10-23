@@ -1,0 +1,290 @@
+[
+  {
+    "id": "1",
+    "institution": "JMJ E.M. High School, Achampet",
+    "established": "1990",
+    "type": "High School",
+    "courses": "S.S.C.",
+    "medium": "English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "2",
+    "institution": "JMJ Navajeevan E.M. School / Special School (Special D.Ed., B.Ed.), Ayyalurimetta",
+    "established": "2015",
+    "type": "High School",
+    "courses": "I–VI",
+    "medium": "English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "3",
+    "institution": "JMJ Formation House, Bhopal",
+    "established": "2015",
+    "type": "Novitiate",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "4",
+    "institution": "St. Joseph's High School T.M. / St. Joseph's E.M. School, Gajwel",
+    "established": "1989 · 2014",
+    "type": "High School",
+    "courses": "S.S.C.",
+    "medium": "Telugu & English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "5",
+    "institution": "JMJ E.M. School, Gyaraspur",
+    "established": "2018",
+    "type": "Primary School",
+    "courses": "I–III",
+    "medium": "English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "6",
+    "institution": "St. Theresa's High School T.M. / E.M. / CBSE, Sanathnagar",
+    "established": "1968",
+    "type": "High School / CBSE",
+    "courses": "S.S.C.",
+    "medium": "Telugu & English",
+    "intake": "Girls"
+  },
+  {
+    "id": "7",
+    "institution": "St. Theresa's Hospital, Sanathnagar",
+    "established": "1960",
+    "type": "Hospital",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "8",
+    "institution": "St. Theresa's School & College of Nursing, Sanathnagar",
+    "established": "GNM 1981 · B.Sc. 2001 · M.Sc. 2008",
+    "type": "College of Nursing",
+    "courses": "GNM, B.Sc., M.Sc.",
+    "medium": "English",
+    "intake": "Girls"
+  },
+  {
+    "id": "9",
+    "institution": "St. Theresa's T.L.C. Home, Sanathnagar",
+    "established": "1999",
+    "type": "T.L.C. Home",
+    "courses": "—",
+    "medium": "—",
+    "intake": "Girls"
+  },
+  {
+    "id": "10",
+    "institution": "JMJ Shanthinilayam, Sanathnagar",
+    "established": "1975",
+    "type": "Old age home",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "11",
+    "institution": "JMJ Jyothinilayam",
+    "established": "1975",
+    "type": "Retreat house",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "12",
+    "institution": "Sr. Celestine Arogya Kendram / JMJ Nilayam, Jagadgirigutta",
+    "established": "1983",
+    "type": "Medical clinic & social work",
+    "courses": "Tailoring",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "13",
+    "institution": "J.K. Pally, Krishnapuram",
+    "established": "2005",
+    "type": "Pastoral work",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "14",
+    "institution": "Katra Hospital",
+    "established": "1990",
+    "type": "Health care",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "15",
+    "institution": "St. Joseph's E.M. School, Koilkuntla",
+    "established": "1969",
+    "type": "High School",
+    "courses": "S.S.C.",
+    "medium": "Telugu & English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "16",
+    "institution": "St. Joseph's Primary & High School, Kurnool-1",
+    "established": "1916",
+    "type": "High School",
+    "courses": "S.S.C.",
+    "medium": "Telugu",
+    "intake": "Girls"
+  },
+  {
+    "id": "17",
+    "institution": "JMJ E.M. School, Kurnool-1",
+    "established": "1988",
+    "type": "High School",
+    "courses": "S.S.C.",
+    "medium": "English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "18",
+    "institution": "St. Joseph's B.Ed. & D.Ed. Colleges, Kurnool-1",
+    "established": "2016",
+    "type": "B.Ed. & D.Ed. College",
+    "courses": "B.Ed., D.Ed.",
+    "medium": "English",
+    "intake": "Girls"
+  },
+  {
+    "id": "19",
+    "institution": "St. Theresa's General Hospital, Kurnool-1",
+    "established": "1923",
+    "type": "Medical",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "20",
+    "institution": "St. Joseph's Boarding for Girls, Kurnool-1",
+    "established": "1926",
+    "type": "Boarding",
+    "courses": "—",
+    "medium": "—",
+    "intake": "Girls"
+  },
+  {
+    "id": "21",
+    "institution": "St. Joseph's Junior, Degree & PG College, Kurnool-2",
+    "established": "1969",
+    "type": "College",
+    "courses": "Intermediate, Degree, PG",
+    "medium": "Telugu & English",
+    "intake": "Girls"
+  },
+  {
+    "id": "22",
+    "institution": "JMJ Care & Support Centre, Kurnool-3",
+    "established": "2008",
+    "type": "Health care",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "23",
+    "institution": "JMJ E.M. School, Madapuram",
+    "established": "2013",
+    "type": "Primary School",
+    "courses": "I–V",
+    "medium": "English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "24",
+    "institution": "JMJ E.M. School, Manoharabad",
+    "established": "2013",
+    "type": "High School",
+    "courses": "S.S.C.",
+    "medium": "English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "25",
+    "institution": "Sneha Sadan, Miyapur",
+    "established": "2000",
+    "type": "Orphanage",
+    "courses": "—",
+    "medium": "—",
+    "intake": "Girls"
+  },
+  {
+    "id": "26",
+    "institution": "Shanthi Sadan, Miyapur",
+    "established": "2018",
+    "type": "Old age home",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "27",
+    "institution": "St. Joseph's High School, Nagarjuna Sagar",
+    "established": "1971",
+    "type": "High School",
+    "courses": "S.S.C.",
+    "medium": "Telugu & English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "28",
+    "institution": "JMJ Convent, Nalgonda",
+    "established": "2016",
+    "type": "Socio-pastoral & evangelisation",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "29",
+    "institution": "JMJ Boarding & Physically Handicapped Home, Pedda Kottala",
+    "established": "1995",
+    "type": "Boarding & rehabilitation home",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "30",
+    "institution": "JMJ Colleges, Pedda Pendial",
+    "established": "1991",
+    "type": "Junior, Degree & PG Colleges",
+    "courses": "Intermediate, Degree, PG",
+    "medium": "Telugu & English",
+    "intake": "Co-ed"
+  },
+  {
+    "id": "31",
+    "institution": "St. Theresa's Hospital, Shamshabad",
+    "established": "2016",
+    "type": "Medical",
+    "courses": "—",
+    "medium": "—",
+    "intake": "—"
+  },
+  {
+    "id": "32",
+    "institution": "St. Mary's Higher Secondary School, Vidisha",
+    "established": "2010",
+    "type": "Higher Secondary School",
+    "courses": "S.S.C. & Intermediate",
+    "medium": "English",
+    "intake": "Co-ed"
+  }
+]

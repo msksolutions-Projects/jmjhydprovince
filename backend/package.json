@@ -1,0 +1,45 @@
+{
+  "name": "jmj-hyderabad-backend",
+  "version": "1.0.0",
+  "description": "Backend API for JMJ Hyderabad Province Admin CMS",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "node --test tests/api.test.js",
+    "backup": "node scripts/backup.js",
+    "create-admin": "node scripts/create-admin.js"
+  },
+  "keywords": [
+    "jmj",
+    "cms",
+    "admin",
+    "api"
+  ],
+  "author": "MSK Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^7.0.0",
+    "express-validator": "^7.0.0",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^10.1.7",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=20.9.0",
+    "npm": ">=9.0.0"
+  }
+}
